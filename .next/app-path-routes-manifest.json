@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/auth/login/page": "/auth/login",
+  "/products/[id]/page": "/products/[id]",
+  "/cart/page": "/cart",
+  "/products/page": "/products",
+  "/page": "/",
+  "/dashboard/buyer/page": "/dashboard/buyer",
+  "/sellers/[slug]/page": "/sellers/[slug]",
+  "/dashboard/seller/page": "/dashboard/seller"
+}
